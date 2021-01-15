@@ -1,6 +1,8 @@
 <template>
   <div id="app">
-    <h1>{{ msg }}</h1>
+    <h1>
+        <i>{{ msg }}</i>
+    </h1>
   </div>
 </template>
 
